@@ -20,7 +20,7 @@ var_dump($carrito);
 echo "<pre>";
 
 $clientes = array('Cliente 1', 'Cliente 2', 'Cliente 3');
-echo "</pre>";
+echo "<pre>";
 var_dump($clientes);
 echo "</pre>";
 
